@@ -73,7 +73,7 @@
 <div align="center">
   <img src="https://qemu.weilnetz.de/icon/benoit/black_and_orange_qemu_head.svg" height="30" alt="qemu logo" />
   <img width="12" />
-  <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" height="30" alt="arch logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/archlinux/archlinux-original.svg" height="30" alt="arch logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="30" alt="freebsd logo"  />
   <img width="12" />
