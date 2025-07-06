@@ -15,19 +15,19 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="python logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" width="30" height="30" alt="javascript logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="css3 logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="30" height="30" alt="bash logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" alt="java logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="mysql logo"  />
 </div>
 
 ###
@@ -37,23 +37,23 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/deno/000000" height="30" alt="denojs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="30" height="30" alt="pandas logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="30" height="30" alt="numpy logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30" alt="sqlite logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="github logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/deno/000000" width="30" height="30" alt="denojs logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="30" height="30" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="30" height="30" alt="canva logo"  />
 </div>
 
 ###
@@ -63,21 +63,21 @@
 ###
 
 <div align="center">
-  <img src="https://qemu.weilnetz.de/icon/benoit/black_and_orange_qemu_head.svg" height="30" alt="qemu logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/archlinux/archlinux-original.svg" height="30" alt="arch logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="30" alt="freebsd logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/alpinelinux/0D597F" height="30" alt="alpinelinux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="30" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  />
+  <img src="https://qemu.weilnetz.de/icon/benoit/black_and_orange_qemu_head.svg" width="30" height="30" alt="qemu logo" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/archlinux/archlinux-original.svg" width="30" height="30" alt="arch logo" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/freebsd/AB2B28" width="30" height="30" alt="freebsd logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/alpinelinux/0D597F" width="30" height="30" alt="alpinelinux logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="30" height="30" alt="debian logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/fedora/51A2DA" width="30" height="30" alt="fedora logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="30" height="30" alt="godot logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="30" height="30" alt="discord logo"  />
 </div>
 
 ###
