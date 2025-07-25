@@ -37,21 +37,23 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35" alt="linux logo"  />
-  <img width="10" />
   <img src="https://cdn.simpleicons.org/pandas/150458" width="35" height="35" alt="pandas logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/numpy/013243" width="35" height="35" alt="numpy logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" height="35" alt="sqlite logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" alt="linux logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" height="35" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="35" height="35" alt="nodejs logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/deno/000000" width="35" height="35" alt="denojs logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="35" height="35" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="github logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" width="35" height="35" alt="canva logo"  />
 </div>
@@ -63,6 +65,8 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35" alt="linux logo"  />
+  <img width="10" />
   <img src="https://qemu.weilnetz.de/icon/benoit/black_and_orange_qemu_head.svg" width="35" height="35" alt="qemu logo" />
   <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/archlinux/archlinux-original.svg" width="35" height="35" alt="arch logo" />
