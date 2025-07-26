@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Soy Blu, estudiante de Cs. de la Computación en la Universidad de Buenos Aires (UBA - FCEyN). Tengo 21 años, me gusta todo lo relacionado a GNU/Linux y los enfoques Unix, atraído por el desarrollo de software limpio y el ecosistema de código abierto.<br><br>Me motiva fomentar el aprendizaje colaborativo y el uso de diversas herramientas para el desarrollo profesional y académico.</p>
+<p align="center">Soy Elian (Blu), estudiante de Cs. de la Computación en la Universidad de Buenos Aires (UBA - FCEyN). Tengo 21 años, me gusta todo lo relacionado a GNU/Linux y los enfoques Unix, atraído por el desarrollo de software limpio y el ecosistema de código abierto.<br><br>Me motiva fomentar el aprendizaje colaborativo y el uso de diversas herramientas para el desarrollo profesional y académico.</p>
 
 ###
 
